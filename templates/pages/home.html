@@ -3,6 +3,7 @@
 {% block title %} | Home {% endblock %}
 {% block content %}
 
+{% load humanize %}
 {% load static %}
 <!-- Banner start -->
 
@@ -120,9 +121,9 @@
                 <div class="slick-slide-item">
                     <div class="car-box-3">
                         <div class="car-thumbnail">
-                            <a href="{% url 'car_detail' car.id %}" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
+                                    <span>${{car.price | intcomma}}</span>
                                 </div>
                                 <img class="d-block w-100" src="{{car.car_photo.url}}" alt="car" style="min-height: 262px; max-height: 262px;">
                             </a>
@@ -161,15 +162,14 @@
                         </div>
                         <div class="detail">
                             <h1 class="title">
-                                <a href="{% url 'car_detail' car.id %}">{{ car.car_title }}</a>
                             </h1>
                             <div class="location">
-                                <a href="{% url 'car_detail' car.id %}">
                                     <i class="flaticon-pin"></i>{{car.state}}, {{car.city}}
                                 </a>
                             </div>
                             <ul class="facilities-list clearfix">
                                 <li>{{car.fuel_type}}</li>
+                                <li>{{car.miles | intcomma}} km</li>
                                 <li>{{car.transmission}}</li>
                                 <li>{{car.body_style}}</li>
                                 <li>{{car.color}}</li>
@@ -207,12 +207,12 @@
             <div class="col-lg-4 col-md-6">
                 <div class="car-box">
                     <div class="car-thumbnail">
-                        <a href="{% url 'car_detail' car.id %}" class="car-img">
                             <div class="tag">For Sale</div>
                             <img class="d-block w-100" src="{{car.car_photo.url}}" alt="car" style="min-height: 262px; max-height: 262px;">
                             <div class="facilities-list clearfix">
                                 <ul>
                                     <li>
+                                        <span><i class="flaticon-way"></i></span>{{car.miles | intcomma}} km
                                     </li>
                                     <li>
                                         <span><i class="flaticon-calendar-1"></i></span>{{car.year}}
@@ -258,10 +258,8 @@
                     </div>
                     <div class="detail">
                         <h1 class="title">
-                            <a href="{% url 'car_detail' car.id %}">{{car.car_title}}</a>
                         </h1>
                         <div class="location">
-                            <a href="{% url 'car_detail' car.id %}">
                                 <i class="flaticon-pin"></i>{{car.state}}, {{car.city}}
                             </a>
                         </div>
@@ -271,6 +269,7 @@
                             <p class="cartype">{{car.body_style}}</p>
                         </div>
                         <div class="pull-right">
+                            <p class="price">$ {{car.price | intcomma}}</p>
                         </div>
                     </div>
                 </div>
@@ -299,7 +298,7 @@
                     <div class="team-1">
                         <div class="photo">
                             <a href="#">
-                                <img src="{{ team.photo.url }}" alt="team-1" class="img-fluid">
+                                <img src="{{ team.photo.url }}" alt="team-1" class="img-fluid" style="min-height: 262px; max-height: 262px;">
                             </a>
                             <div class="social-list clearfix">
                                 <a href="{{team.facebook_link}}" target="_blank" class="facebook-bg"><i class="fa fa-facebook"></i></a>
