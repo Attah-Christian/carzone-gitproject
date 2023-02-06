@@ -28,6 +28,7 @@
                 <div class="car-details-section">
                     <!-- Heading start -->
                     <div class="heading-car clearfix">
+                      {% include 'includes/messages.html' %}
                         <div class="pull-left">
                             <h3>{{single_car.car_title}}</h3>
                             <h6>
@@ -221,6 +222,7 @@
                             </button>
                           </div>
                           <div class="modal-body">
+                            <form action="{% url 'inquiry' %}" method="POST">
                               {% csrf_token %}
 
                               {% if user.is_authenticated %}

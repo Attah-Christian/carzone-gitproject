@@ -1,0 +1,1094 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "FL",
+        "city": "Tampa",
+        "color": "white",
+        "model": "2018 Toyota Corolla",
+        "year": 2018,
+        "condition": "used",
+        "price": 10000,
+        "description": "<p>The 2018 Toyota Corolla ranks in the middle third of the compact car class. It has a great predicted reliability rating, and it&#39;s loaded with advanced safety features. However, many rivals offer zestier handling, stronger acceleration, and nicer cabin materials than the Corolla.&nbsp;</p>",
+        "car_photo": "photos/23/01/08/1900893299.jpg",
+        "car_photo_1": "photos/23/01/08/1900893311.jpg",
+        "car_photo_2": "photos/23/01/08/1900893319.jpg",
+        "car_photo_3": "photos/23/01/08/1900893329.jpg",
+        "car_photo_4": "photos/23/01/08/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Power Steering,Reversing Camera",
+        "body_style": "Sport",
+        "engine": "50L mid-engine v12",
+        "transmission": "Automatic",
+        "interior": "grey",
+        "miles": 10000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "vn87367tgd7tg76r",
+        "milage": 5,
+        "fuel_type": "Gas",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-01-08T14:23:06Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "FL",
+        "city": "Jcksonville",
+        "color": "white",
+        "model": "2018 4Runner",
+        "year": 2018,
+        "condition": "used",
+        "price": 20000,
+        "description": "<p>The 2018 Toyota 4Runner ranks toward the bottom of the midsize SUV class. It has a strong engine, excellent off-road performance, and a good predicted reliability rating, but that&#39;s not enough to offset the SUV&rsquo;s mediocre safety scores, low-grade interior, and so-so handling on pavement.</p>",
+        "car_photo": "photos/23/01/08/1893633875.jpg",
+        "car_photo_1": "photos/23/01/08/1893633879.jpg",
+        "car_photo_2": "photos/23/01/08/1893633884.jpg",
+        "car_photo_3": "photos/23/01/08/1896836883.jpg",
+        "car_photo_4": "photos/23/01/08/1896836887.jpg",
+        "features": "Audio Interface,Airbags,Alarm System,Bluetooth Handset",
+        "body_style": "Suv",
+        "engine": "34L mid-engine v6",
+        "transmission": "Automatic",
+        "interior": "grey",
+        "miles": 30000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "vn87367tgd7td8g2",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2023-01-08T14:49:08Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "FL",
+        "city": "Miami",
+        "color": "black",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "used",
+        "price": 25000,
+        "description": "<p>The 2017 Jaguar F-Pace&#39;s #8 ranking is based on its score within the&nbsp;<a href=\"https://cars.usnews.com/cars-trucks/rankings/used/2017-luxury-compact-suvs\">2017 Luxury Compact SUVs</a>&nbsp;category. It is a finalist for our 2017 Best Luxury Compact SUV for Families award. Currently the Jaguar F-Pace has a score of 7.9 out of 10, which is based on our evaluation of 14 pieces of research and data elements using various&nbsp;<a href=\"https://cars.usnews.com/cars-trucks/jaguar/f-pace/2017/sources\">sources</a>.</p>",
+        "car_photo": "photos/23/01/08/1902932503.jpg",
+        "car_photo_1": "photos/23/01/08/1902932514.jpg",
+        "car_photo_2": "photos/23/01/08/1902932528.jpg",
+        "car_photo_3": "photos/23/01/08/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop",
+        "body_style": "Suv",
+        "engine": "38L mid-engine v8",
+        "transmission": "Automatic",
+        "interior": "grey",
+        "miles": 10000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "vn873677gdeg7td8g2",
+        "milage": 5,
+        "fuel_type": "Gas",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-01-08T15:43:59Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "FL",
+        "city": "Orlando",
+        "color": "white",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "new",
+        "price": 60000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>",
+        "car_photo": "photos/23/01/08/1902536891.jpg",
+        "car_photo_1": "photos/23/01/08/1902536917.jpg",
+        "car_photo_2": "photos/23/01/08/1902537043.jpg",
+        "car_photo_3": "photos/23/01/08/1902537077.jpg",
+        "car_photo_4": "photos/23/01/08/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "34L mid-engine v6",
+        "transmission": "Automatic",
+        "interior": "grey",
+        "miles": 5000,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "vn873677gg7td8g2",
+        "milage": 2,
+        "fuel_type": "Gas",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-01-08T15:46:39Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "FL",
+        "city": "Orlando",
+        "color": "black",
+        "model": "F-250 Super Duty",
+        "year": 2017,
+        "condition": "new",
+        "price": 40000,
+        "description": "<p>The Ford F-250 has always had a single-mind focus: handle heavy loads and tough jobs. The redesigned 2017 model builds on that legacy by reducing the beast&#39;s overall weight and going heavy on refinement and technology. Of all HD trucks, the F-250 is a unanimous favorite among our staff.</p>",
+        "car_photo": "photos/23/01/08/1894300894.jpg",
+        "car_photo_1": "photos/23/01/08/1894300905.jpg",
+        "car_photo_2": "photos/23/01/08/1894300920.jpg",
+        "car_photo_3": "photos/23/01/08/1900155012.jpg",
+        "car_photo_4": "photos/23/01/08/1900155133.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Reversing Camera,Bluetooth Handset",
+        "body_style": "Truck",
+        "engine": "34L mid-engine v12",
+        "transmission": "Manual",
+        "interior": "grey",
+        "miles": 111,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "vn873677gdeg7bvyrf",
+        "milage": 0,
+        "fuel_type": "Petrol",
+        "no_of_owners": "0",
+        "is_featured": true,
+        "created_date": "2023-01-08T15:53:48Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "FL",
+        "city": "Naples",
+        "color": "black",
+        "model": "Ford Edge",
+        "year": 2017,
+        "condition": "new",
+        "price": 35000,
+        "description": "<p>The 2017 Ford Edge&#39;s #9 ranking is based on its score within the&nbsp;<a href=\"https://cars.usnews.com/cars-trucks/rankings/used/2017-affordable-midsize-suvs\">2017 Affordable Midsize SUVs</a>&nbsp;category. It is the winner of our 2017 Best 2-Row SUV for Families award and a finalist for our 2017 Best 2-Row SUV for the Money award. Currently the Ford Edge has a score of 8.1 out of 10, which is based on our evaluation of 25 pieces of research and data elements using various&nbsp;<a href=\"https://cars.usnews.com/cars-trucks/ford/edge/2017/sources\">sources</a>.</p>",
+        "car_photo": "photos/23/01/08/1901478607.jpg",
+        "car_photo_1": "photos/23/01/08/1901478618.jpg",
+        "car_photo_2": "photos/23/01/08/1901478646.jpg",
+        "car_photo_3": "photos/23/01/08/1901478672.jpg",
+        "car_photo_4": "photos/23/01/08/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Reversing Camera,Bluetooth Handset",
+        "body_style": "Suv",
+        "engine": "50L mid-engine v6",
+        "transmission": "Automatic",
+        "interior": "grey",
+        "miles": 50,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "vn873677gg7tfgr7",
+        "milage": 0,
+        "fuel_type": "Gas",
+        "no_of_owners": "0",
+        "is_featured": true,
+        "created_date": "2023-01-08T15:59:12Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "designation": "managing director",
+        "photo": "photos/23/01/07/0x0.png",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2023-01-07T07:58:40.175Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Eniola",
+        "last_name": "Ilori",
+        "designation": "financial advisor",
+        "photo": "photos/23/01/07/e5fc935b60035305099554810357012a.png.webp",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2023-01-07T08:19:32.363Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Hammed",
+        "last_name": "Naheem",
+        "designation": "Executive Director",
+        "photo": "photos/23/01/07/imagemdestaque2304_220420223401.jpg.webp",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2023-01-07T08:20:33.642Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Ayomide",
+        "last_name": "Ayobami",
+        "designation": "general manager",
+        "photo": "photos/23/01/07/unnamed-2.png.webp",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2023-01-07T08:21:26.764Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Holtie",
+        "last_name": "Drizzy",
+        "designation": "board manager",
+        "photo": "photos/23/01/07/twitter_FesxWaYXEAEx-my.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2023-01-07T08:22:03.129Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "tuchris02@gmail.com",
+        "phone": "6315050484",
+        "message": "I want to know more about this",
+        "user_id": 1,
+        "create_date": "2023-02-05T18:28:07.603Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "tuchris02@gmail.com",
+        "phone": "6315050484",
+        "message": "I want to know more about this",
+        "user_id": 1,
+        "create_date": "2023-02-05T18:29:02.392Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "tuchris02@gmail.com",
+        "phone": "6315050484",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2023-02-05T20:23:54.410Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Eniola",
+        "last_name": "Abosede",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "acecris23@gmail.com",
+        "phone": "6315050484",
+        "message": "",
+        "user_id": 4,
+        "create_date": "2023-02-05T20:27:47.709Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Django",
+        "last_name": "Admin",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "generaltena93@gmail.com",
+        "phone": "6315050484",
+        "message": "",
+        "user_id": 5,
+        "create_date": "2023-02-05T20:29:24.128Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "tuchris02@gmail.com",
+        "phone": "6315050484",
+        "message": "enquire",
+        "user_id": 1,
+        "create_date": "2023-02-05T21:52:36.259Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 7,
+    "fields": {
+        "first_name": "Eniola",
+        "last_name": "Abosede",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "acecris23@gmail.com",
+        "phone": "6315050484",
+        "message": "making inquiry",
+        "user_id": 4,
+        "create_date": "2023-02-05T22:13:00.423Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 8,
+    "fields": {
+        "first_name": "Eniola",
+        "last_name": "Abosede",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "acecris23@gmail.com",
+        "phone": "6315050484",
+        "message": "making inquiry",
+        "user_id": 4,
+        "create_date": "2023-02-05T22:17:06.917Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 9,
+    "fields": {
+        "first_name": "Eniola",
+        "last_name": "Abosede",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "acecris23@gmail.com",
+        "phone": "6315050484",
+        "message": "making inquiry",
+        "user_id": 4,
+        "create_date": "2023-02-05T22:18:48.302Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 10,
+    "fields": {
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Dallas",
+        "state": "TX",
+        "email": "tuchris02@gmail.com",
+        "phone": "6315050484",
+        "message": "test",
+        "user_id": 1,
+        "create_date": "2023-02-05T23:22:12.046Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$QltYSkF2mS1y92QEwBhGJ7$h+N5hd5xRfh83w/eioOvHTxjFR2vEI9DRucZdHDzAXU=",
+        "last_login": "2023-02-06T05:27:21.273Z",
+        "is_superuser": true,
+        "username": "chris",
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "email": "tuchris02@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-01-04T02:50:39Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$sjvYnxPq7FD5sV9B7QnnJt$oppm2W25Bb4JrB0a5vjc5Fh/r1GXe0hp7aBXmRkYI+Q=",
+        "last_login": "2023-01-22T14:33:35.518Z",
+        "is_superuser": false,
+        "username": "Chris",
+        "first_name": "Attah",
+        "last_name": "Christian ",
+        "email": "Christanattah008@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-01-20T22:27:58.449Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!VCbFoOdJ1wSJwlrdbQOx968UrSBjbRcpWkydyxKN",
+        "last_login": "2023-02-05T16:43:55.577Z",
+        "is_superuser": false,
+        "username": "attah",
+        "first_name": "Attah",
+        "last_name": "Christian",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-02-05T16:43:55.520Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$3xdnfRFmfe9O623WfXt6r1$Hj2H8EwmGCwWWoFb65F0OOhMbs158mjFuCTyO78468o=",
+        "last_login": "2023-02-05T22:12:01.273Z",
+        "is_superuser": false,
+        "username": "Adunni",
+        "first_name": "Eniola",
+        "last_name": "Abosede",
+        "email": "acecris23@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-02-05T20:27:04.832Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$wTrWJcFx7jcYyL00dWKMpO$4aynBGgpn54on9JUYes4JxksGQwkPvjklg06FfdVoOo=",
+        "last_login": "2023-02-05T20:29:01.425Z",
+        "is_superuser": false,
+        "username": "djangoadmin",
+        "first_name": "Django",
+        "last_name": "Admin",
+        "email": "generaltena93@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-02-05T20:29:01.309Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4ds2mta19ra2l0t273cddxjfico2kr8a",
+    "fields": {
+        "session_data": ".eJxljMEOwiAQBf-Fc9NAhUJ79O43kIVdLIqQtMWL8d-1pjExXmfmvQcD70vNq73THEMktHSDmNiYa0rN19aFZjayA2uYhbpOH2Aj_jMH_kp5E3iBfC6tL3mdo2u3pN3t0p4KUjru7c_BBMv0XkNHJFFpGXohDyA6zjl4o4YQdOCk9GAgEAjUA0jp0YTe9c4rYRxiFxR7vgCDGUor:1pOi7P:lT7FX0ZUbaiEk6WDLKbVFldheahyJS_Rq-ogY-Ek-T0",
+        "expire_date": "2023-02-19T16:43:55.581Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "fprtncxe8uk4eobceulz9psnsx8eesl2",
+    "fields": {
+        "session_data": ".eJxVjMFuwyAQRP9lz5YFiTFJbq3a3vIFVWXtLktM6oJr8CnKvxdXueQ2mvdmbpATB5yQOa2xDLlgETh93mBeEkvOcIIpXUKEBjKnuTKoEdcyDjMu-LMJcG-A3w4fXXj_pZdzD18NDP_KmmUZgquOhqeOkL8lbsBdMV5SyymWJVC7Ke2D5vacnEyvD_fpYMQ81rXVfr8TZaxYq8gYkp3VJNqIkGd7pF6hIqXROXb-6Pfe61p1B2f6vtMW7n9xLlUN:1pOu2D:SrhUpfKw8qY3VOHSTdkiW_kZwDxbf8BfwVMnOEHO7as",
+        "expire_date": "2023-02-20T05:27:21.275Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "mg2sk8jt2erksqyuj61ugh2p4ko0dnpa",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hCmLYx16d4zEIYZpGogKe3KeHfbpAvdvvf-fysf1iX7tcnsJ1YXBer0yyjEp5Rd8COUe9WxlmWeSO-JPmzTt8ryuh7t30EOLW9rhNR3YiwKoiFrSToEErAilCKO5EwwZCAwR05j6lOCDQ1nts4NgOrzBfH6OFg:1pCttT:JNgRCocRSYc6jxbxqWFZizxsDDwngFslC2NxQWbzrik",
+        "expire_date": "2023-01-18T02:52:43.519Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "r1to4lub9ot33p4w5314jlape05x8mjg",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hCmLYx16d4zEIYZpGogKe3KeHfbpAvdvvf-fysf1iX7tcnsJ1YXBer0yyjEp5Rd8COUe9WxlmWeSO-JPmzTt8ryuh7t30EOLW9rhNR3YiwKoiFrSToEErAilCKO5EwwZCAwR05j6lOCDQ1nts4NgOrzBfH6OFg:1pCtry:1GHE3EtWJqygrewxqSIqRG4BMvk0eTM1Mt_NyEbVoxM",
+        "expire_date": "2023-01-18T02:51:10.403Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "8549395651798188",
+        "secret": "6af4ba880e6f0ecd1382349b76ab0f89",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "852541021678-4r5oa3dp6pp8f434c4njhfmsb2f0cm3a.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "attah"
+        ],
+        "provider": "facebook",
+        "uid": "131865753117880",
+        "last_login": "2023-02-05T16:43:55.550Z",
+        "date_joined": "2023-02-05T16:43:55.550Z",
+        "extra_data": "{\"id\": \"131865753117880\", \"name\": \"Attah Christian\", \"first_name\": \"Attah\", \"last_name\": \"Christian\"}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-01-07T07:58:40.178Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Attah",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-01-07T08:16:04.448Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Attah",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-01-07T08:19:32.364Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Eniola",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-01-07T08:20:33.644Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Hammed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-01-07T08:21:26.766Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ayomide",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-01-07T08:22:03.131Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Holtie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-01-07T08:32:24.258Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Holtie",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-01-07T08:32:50.245Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ayomide",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-01-07T08:33:07.321Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Hammed",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-01-07T08:33:24.325Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Eniola",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-01-07T08:33:33.889Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Attah",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-01-08T14:47:17.653Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-01-08T14:57:55.555Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-01-08T15:46:34.859Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-01-08T15:52:56.423Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-01-08T15:58:44.239Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-01-08T16:03:15.875Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-01-08T19:02:48.598Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-01-16T21:27:18.954Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "chris",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-01-21T22:58:35.896Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Django Carzone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-01-21T22:58:53.311Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-01-21T22:59:41.981Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-01-22T15:10:32.841Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-01-27T19:03:51.551Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-01-27T19:04:01.482Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sites\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-01-27T19:04:09.315Z",
+        "user": [
+            "chris"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+}
+]
